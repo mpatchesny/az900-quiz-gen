@@ -11,3 +11,5 @@ eg.\
 ```python az900_quiz_gen.py C:\downloads\README.md true```
 - second parameter tells if questions should be in random order; it's an optional parameter, by default questions are not in random order
 - quiz is running, answer questions in your terminal
+- to answer multiple choice question, enter answers separated with comma, eg:\
+```> Answer: 1,2,3```
